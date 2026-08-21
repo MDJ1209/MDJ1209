@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&section=header&color=0:050A14,35:071A2E,70:003B5C,100:00D9FF&fontColor=FFFFFF&animation=twinkling" />
+<img width="100%" src="[https://capsule-render.vercel.app](https://media.licdn.com/dms/image/v2/D4D03AQHpAjbt9Fi46w/profile-displayphoto-scale_400_400/B4DaAjKBTEK8Ag-/0/1787296225994?e=1788998400&v=beta&t=9PViPGt_g_hAOpHAYo44kKMOh6O9zSA543nTGwpkgL4)/api?type=venom&height=230&section=header&color=0:050A14,35:071A2E,70:003B5C,100:00D9FF&fontColor=FFFFFF&animation=twinkling" />
 
 <br>
 
