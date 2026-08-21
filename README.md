@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&color=0:050A14,30:071A2E,65:003B5C,100:00D9FF&animation=twinkling&text=MAHAMED%20MASTAN%20JANI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=MDJ1209%20%E2%80%A2%20Applied%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=60&descSize=18" />
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHcvo7FRjB3tg/profile-displayphoto-scale_400_400/B4DaAjLdUaK8Ak-/0/1787296603718?e=1788998400&v=beta&t=X44Db6kNVYOrrP8_5d6Cv5KmdDCHK3HD3UlP9_RNaoU" width="150" />
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHcvo7FRjB3tg/profile-displayphoto-scale_400_400/B4DaAjLdUaK8Ak-/0/1787296603718?e=1788998400&v=beta&t=X44Db6kNVYOrrP8_5d6Cv5KmdDCHK3HD3UlP9_RNaoU" width="210" />
 
 <br><br>
 
