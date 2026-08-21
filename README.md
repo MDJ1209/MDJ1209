@@ -30,21 +30,7 @@ I'm **Mahamed Mastan Jani**, a Computer Science Engineering student at **Vignan'
 I enjoy taking an idea that exists only as a concept and pushing it through the entire journey:
 
 ```text
-💡 IDEA
-   ↓
-🔬 RESEARCH
-   ↓
-🧠 DESIGN
-   ↓
-💻 BUILD
-   ↓
-🤖 AUTOMATE
-   ↓
-☁️ DEPLOY
-   ↓
-🧪 TEST
-   ↓
-🚀 IMPROVE
+💡 IDEA → 🔬 RESEARCH → 🧠 DESIGN → 💻 BUILD → 🤖 AUTOMATE → ☁️ DEPLOY → 🧪 TEST → 🚀 IMPROVE
 ```
 
 I don't want to only learn technologies.
@@ -60,14 +46,12 @@ I don't want to only learn technologies.
 │                         MDJ1209                               │
 ├───────────────────────────────────────────────────────────────┤
 │ 🎓 Computer Science Engineering Student                      │
-│ 🤖 Applied AI / ML Developer                                 │
-│ 💻 Full-Stack Builder                                        │
-│ ☁️ Cloud & DevOps Enthusiast                                 │
-│ 🔐 Cybersecurity Explorer                                    │
-│ 🚀 Product & R&D Mindset                                     │
-│ 🧠 Problem Solver                                             │
-│ 🎤 Technical / Campus Event Leader                            │
-└───────────────────────────────────────────────────────────────┘
+│ 🤖 Applied AI Developer                                      │
+│ 💻 Full-Stack Builder                                        │                                 │
+│ 🔐 Cybersecurity Explorer                                    │                               │
+│ 🧠 Problem Solver                                            │
+│ 🎤 Technical / Campus Event Leader                           │
+└────────────────────────────────────────────────────────────── ┘
 ```
 
 ---
@@ -104,18 +88,6 @@ Authentication
    ↓
 Deployment
 ```
-
-### ☁️ Cloud & Infrastructure
-
-Exploring:
-
-* AWS
-* Flask microservices
-* PostgreSQL
-* Kubernetes
-* GitHub Actions
-* CI/CD
-* Cloud deployment
 
 ### 🔐 Cybersecurity
 
@@ -385,28 +357,6 @@ The repository describes a solar-powered mobile charging station with interactiv
 
 ---
 
-# ⚖️ AI-Powered Legal Intelligence
-
-An NLP-oriented assistant designed around structured legal query flows.
-
-### The idea
-
-```text
-User Query
-    ↓
-NLP Processing
-    ↓
-Intent / Decision Flow
-    ↓
-Structured Reasoning
-    ↓
-Response
-```
-
-The project explored how decision-tree-style logic can be combined with NLP to create a more structured conversational experience.
-
----
-
 # 🏥 Intelligent Queue Orchestration
 
 A healthcare-focused queue management concept designed for hospitals and clinics.
@@ -436,26 +386,6 @@ The system explored intelligent token management and logic-based prioritization 
 This work also became part of my participation in the **NSRIT Startup Ideathon**, where our team secured **1st Prize** and I served as **Team Lead**, guiding research, pitch development and the live presentation.
 
 ---
-
-# 🔐 Cybersecurity Experience
-
-During my cybersecurity internship, I worked on security-oriented automation and reporting.
-
-### Highlights
-
-```text
-🐍 Python / JavaScript
-        ↓
-🔍 Automated Security Scanning
-        ↓
-☸️ Kubernetes Microservices
-        ↓
-🚨 Vulnerability Identification
-        ↓
-📊 SQL Reporting
-        ↓
-🛡️ Remediation
-```
 
 The work involved identifying **27 vulnerabilities**, contributing to a **40% reduction in critical vulnerabilities**, and producing SQL-based dashboards and remediation documentation for engineering teams.
 
@@ -536,8 +466,6 @@ Explore everything:
 | --------- | ---------------------------------------- |
 | 🏆        | **1st Prize — NSRIT Startup Ideathon**   |
 | 🤖        | Applied AI Development Experience        |
-| 🔐        | Cybersecurity Internship Experience      |
-| 🔬        | Research paper milestone — **BioNexsus** |
 | 🎤        | Hosted / led **10+ campus events**       |
 | ☁️        | AWS / Cloud learning & deployment        |
 | 💻        | Multiple full-stack + AI projects        |
