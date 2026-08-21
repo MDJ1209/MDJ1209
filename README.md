@@ -4,30 +4,39 @@
 
 <div align="center">
 
+<!-- ANIMATED TECH HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&color=0:050A14,30:071A2E,65:003B5C,100:00D9FF&animation=twinkling&text=MAHAMED%20MASTAN%20JANI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=MDJ1209%20%E2%80%A2%20Applied%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=60&descSize=18" />
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHcvo7FRjB3tg/profile-displayphoto-scale_400_400/B4DaAjLdUaK8Ak-/0/1787296603718?e=1788998400&v=beta&t=X44Db6kNVYOrrP8_5d6Cv5KmdDCHK3HD3UlP9_RNaoU" width="210" />
+<!-- PROFILE PHOTO -->
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHcvo7FRjB3tg/profile-displayphoto-scale_400_400/B4DaAjLdUaK8Ak-/0/1787296603718?e=1788998400&v=beta&t=X44Db6kNVYOrrP8_5d6Cv5KmdDCHK3HD3UlP9_RNaoU" width="220" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Applied+AI+Developer+%7C+Full+Stack+Builder;Computer+Science+Engineer+%7C+Cloud+%26+Cybersecurity;Turning+ideas+into+working+systems+%F0%9F%9A%80;Building.+Breaking.+Learning.+Improving." />
+<!-- ANIMATED TAGLINE — DARKER COLOR FOR LIGHT/DARK THEME VISIBILITY -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=23&pause=900&color=0B5CAD&center=true&vCenter=true&width=950&lines=Applied+AI+Developer+%7C+Full+Stack+Builder;Computer+Science+Engineer+%7C+Cloud+%26+Cybersecurity;Turning+ideas+into+working+systems+%F0%9F%9A%80;Building.+Breaking.+Learning.+Improving." />
 
 <br><br>
 
+<!-- SOCIAL BADGES -->
 <a href="https://github.com/MDJ1209">
-<img src="https://img.shields.io/badge/GitHub-MDJ1209-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/GitHub-MDJ1209-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <a href="https://www.linkedin.com/in/mahamedjani/">
-<img src="https://img.shields.io/badge/LinkedIn-Mahamed%20Jani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/LinkedIn-Mahamed%20Jani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MDJ1209&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=MDJ1209&label=PROFILE%20VIEWS&color=0B5CAD&style=for-the-badge" />
+
+<br><br>
+
+<!-- CLEAN TECH DIVIDER -->
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0B5CAD" />
 
 </div>
-
 ---
 
 # 🧠 Who Am I?
